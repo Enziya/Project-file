@@ -1,0 +1,36 @@
+body{background: linear-gradient(#ebe4e4 0%, #94c3e0 100%);
+
+}
+img {width:200px;height:150px;
+margin:;
+
+align-image: center;
+}
+h1{font-family:italic;
+text-align:center
+color:black
+}
+
+
+
+.links:hover{
+background-color:yellowgreen
+}
+p{
+
+font-size: 17px;
+margin: 25px auto;
+
+}
+#contact{
+background: firebrick;
+}
+#contact ifarme {
+ width:100%;
+}
+.contact_1 h3 {
+display:inline;
+}
+.contact_1 a{
+color: beige;  
+}
